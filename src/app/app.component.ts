@@ -19,7 +19,7 @@ export class AppComponent {
   
   mostrar():void{
    // this.title="es hora de mate cocido";
-   // console.info("titulo",this.title);
+   console.info("titulo",this.title);
     console.info("usuario: ",this.miusuario);
     //alert(this.miusuario.nombre +  " - " + this.miusuario.clave );
     //alert(this.miusuario);
